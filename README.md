@@ -1,78 +1,103 @@
-# NEXUS BY NAVEEN
 
-### Hi, I'm Naveen Prasad 👋
+<div align="center">
 
-**Aspiring Data Analyst | Exploring Data, Discovering Insights.**
+# 👋 Hey, I'm Naveen Prasad
 
-I’m a B.Sc. graduate currently pursuing Data Science & AI through Masai × E&ICT Academy, IIT Roorkee.
+### Full-Stack Tech Enthusiast | Data & AI Explorer
 
-I enjoy working with data, solving analytical problems, and turning raw information into meaningful insights.
+**Building • Learning • Exploring 🚀**
 
-[🌐 Portfolio Website](https://naveendevrari1.github.io/) · [💼 LinkedIn](https://www.linkedin.com/in/naveen-devrari-b121b643b/) · [📧 Email](mailto\:naveendevrari429@gmail.com)
+📍 Uttarakhand, India
+
+</div>
 
 ---
 
-## `01` / ABOUT ME
+## 🧑‍💻 ABOUT ME
 
-- 🎓 B.Sc. Zoology, Botany & Chemistry — 2024
-- 📊 Interested in Data Analytics and Business Intelligence
-- 🔍 Building hands-on projects using real-world datasets
-- 🌱 Currently learning Data Science & AI
-- 🎯 Goal: Grow as a Data Analyst and solve real business problems
+- 🎓 BSc Graduate (Zoology, Botany & Chemistry)
+- 🤖 Learning Data Science & AI at Masai × IIT Roorkee
+- 📊 Interested in Data Analytics & Business Intelligence
+- 🐍 Working with Python, SQL and Excel
+- 📈 Exploring Power BI and Data Visualization
+- 🌐 Building websites with AI-assisted development
+- ⚡ Exploring APIs and AI Automation
 
-## `02` / TECH STACK
+---
 
-| Technology     | Current Level                         |
-| -------------- | ------------------------------------- |
-| SQL            | Intermediate                          |
-| Excel          | Formulas, Pivot Tables, Data Cleaning |
-| Python         | Intermediate                          |
-| Pandas & NumPy | Intermediate                          |
-| Power BI       | Intermediate                          |
-| GitHub         | Intermediate                          |
+## 🛠️ TECH STACK
 
-## `03` / FEATURED PROJECTS
+**Programming & Data**
 
-### Customer Churn & Retention Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-An analytical project exploring customer churn patterns, retention trends, and customer segments.
+**Analytics**
 
-**Key work:**
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-- Customer data analysis
-- Churn and retention metrics
-- Exploratory data analysis
-- Business insights and recommendations
+**Tools**
 
-🔗 [View Project Repository](https://github.com/Naveendevrari1/customer-churn-retention-analysis)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## `04` / CERTIFICATIONS
+---
 
-**Tata — GenAI Powered Data Analytics Job Simulation**
+## 🚀 FEATURED PROJECTS
 
-- Forage
-- Completed: September 29, 2026
+### 📊 Customer Churn & Retention Analysis
 
-## `05` / CURRENTLY LEARNING
+- Analyzed 7,043 customer records.
+- Identified customer churn patterns.
+- Explored retention opportunities.
+
+**Tools:** Python, Pandas, Excel, SQL, Power BI
+
+[View Project](https://github.com/Naveendevrari1/customer-churn-retention-analysis)
+
+---
+
+## 🌱 CURRENTLY LEARNING
 
 - Advanced SQL
-- Python for Data Analysis
-- Power BI
-- Data Visualization
-- Data Science & AI
+- Python for Data Science
+- Machine Learning
+- API Integration
+- AI Automation
+- Web Development fundamentals
 
 ---
 
-### Let's Connect
+## 📊 GITHUB STATS
 
-I'm interested in learning, collaborating, and exploring entry-level Data Analyst opportunities.
+<div align="center">
 
-🌐 [Portfolio](https://naveendevrari1.github.io/)
+<img src="https://github-readme-stats.vercel.app/api?username=Naveendevrari1&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-💼 [LinkedIn](https://www.linkedin.com/in/naveen-devrari-b121b643b/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveendevrari1&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-📧 [Email Me](mailto\:naveendevrari429@gmail.com)
+</div>
 
 ---
 
-*Turning data into insights, one project at a time.*
+## 🤝 CONNECT WITH ME
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveen-devrari-b121b643b/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Naveendevrari1)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Learn something. Build something. Repeat." 🚀
+
+</div>
