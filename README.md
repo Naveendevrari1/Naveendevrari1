@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="github-banner.png.png" width="100%" />
+</div>
 <div align="center">
 
 # 👋 Hey, I'm Naveen Prasad
